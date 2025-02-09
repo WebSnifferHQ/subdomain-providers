@@ -46,6 +46,10 @@ Contributions are welcome! If you know of other subdomain providers that should 
 * **Status (Active/Defunct):**
 * **Notes (optional):**
 
+## Other Lists
+
+- https://github.com/korlabsio/subdomain_providers
+
 ## Disclaimer
 
 This list is provided for informational purposes only.  Maintainers are not affiliated with any of the providers listed.  Please use these services at your own discretion.  Always review the terms of service of any provider before using their services.  The inclusion of a provider on this list does not constitute an endorsement.  Defunct services are listed for historical reference only.
