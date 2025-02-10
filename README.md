@@ -24,11 +24,11 @@ This list includes various types of subdomain services:
 | `eu.org` | [EU.org](https://nic.eu.org/) | Provides free subdomains under eu.org. | Free | No | Active | For non-commercial use by individuals and organisations in the European Union |
 | `freedns.afraid.org` | [Afraid.org](https://freedns.afraid.org/) | Free DNS hosting with dynamic DNS support. | Free | Yes | Active | Large community and many features. |
 | `github.io` | [GitHub Pages](https://pages.github.com/) | Host static websites directly from your GitHub repositories. | Free | No | Active | Great for personal projects and documentation. |
-| `github.io` | | | | | | |
 | `js.org` | | | | | | |
 | `lima-city.de` | Lima-City | Former free subdomain provider. | N/A | N/A | Defunct | Included for historical reference. |
 | `netlify.app` | | | | | | |
 | `no-ip.com` | [No-IP](https://www.noip.com/) | Dynamic DNS provider with free and paid options. | Free/Paid | Yes | Active | Popular and reliable service. |
+| `pages.dev` | [Cloudflare Pages](https://pages.cloudflare.com/) | | | | | |
 | `subdomain.me` | [Subdomain.me](https://subdomain.me/) | Offers free subdomains. | Free | No | Active | Easy to use and setup |
 | `vercel.app` | | | | | | |
 | `your-freedom.net` | [Your-Freedom](https://www.your-freedom.net/) | Offers free subdomains for its services. | Free | No | Active | Primarily focused on VPN and proxy services. |
