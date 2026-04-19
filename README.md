@@ -32,6 +32,7 @@ This list includes various types of subdomain services:
 | `subdomain.me` | [Subdomain.me](https://subdomain.me/) | Offers free subdomains. | Free | No | Active | Easy to use and setup |
 | `vercel.app` | | | | | | |
 | `your-freedom.net` | [Your-Freedom](https://www.your-freedom.net/) | Offers free subdomains for its services. | Free | No | Active | Primarily focused on VPN and proxy services. |
+| `get.shi-n.ing` | [shi-n.ing](https://get.shi-n.ing/) | A subdomain service provided by Fioness. | Free | No | Active | Open for everyone. Part of the Fiana ecosystem. |
 
 ## Contributing
 
