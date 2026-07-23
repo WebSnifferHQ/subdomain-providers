@@ -24,6 +24,7 @@ This list includes various types of subdomain services:
 | `eu.org` | [EU.org](https://nic.eu.org/) | Provides free subdomains under eu.org. | Free | No | Active | For non-commercial use by individuals and organisations in the European Union |
 | `freedns.afraid.org` | [Afraid.org](https://freedns.afraid.org/) | Free DNS hosting with dynamic DNS support. | Free | Yes | Active | Large community and many features. |
 | `github.io` | [GitHub Pages](https://pages.github.com/) | Host static websites directly from your GitHub repositories. | Free | No | Active | Great for personal projects and documentation. |
+| `ing.ng` | [ing.ng](https://ing.ng) | Free `*.ing.ng` subdomains with full DNS record management, claimable from the CLI (`npx ingng`), API, or web. | Free | No | Active | Supports A/AAAA/CNAME/MX/TXT/NS/SRV records, ENS + browser resolution, and no renewal fees. |
 | `js.org` | | | | | | |
 | `lima-city.de` | Lima-City | Former free subdomain provider. | N/A | N/A | Defunct | Included for historical reference. |
 | `netlify.app` | | | | | | |
