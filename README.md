@@ -29,9 +29,9 @@ This list includes various types of subdomain services:
 | `netlify.app` | | | | | | |
 | `no-ip.com` | [No-IP](https://www.noip.com/) | Dynamic DNS provider with free and paid options. | Free/Paid | Yes | Active | Popular and reliable service. |
 | `pages.dev` | [Cloudflare Pages](https://pages.cloudflare.com/) | | | | | |
-| `subdomain.me` | [Subdomain.me](https://subdomain.me/) | Offers free subdomains. | Free | No | Active | Easy to use and setup |
+| `subdomain.me` | [Subdomain.me](https://subdomain.me/) | former free subdomain provider. | Free | No | Defunct | Included for historical reference. |
 | `vercel.app` | | | | | | |
-| `your-freedom.net` | [Your-Freedom](https://www.your-freedom.net/) | Offers free subdomains for its services. | Free | No | Active | Primarily focused on VPN and proxy services. |
+| `your-freedom.net` | [Your-Freedom](https://www.your-freedom.net/) | former free subdomain provider. | Free | No | Defunct | Included for historical reference. |
 
 ## Contributing
 
