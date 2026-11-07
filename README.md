@@ -19,6 +19,7 @@ This list includes various types of subdomain services:
 | Domain | Provider | Description | Free/Paid | Dynamic DNS | Status | Notes |
 |---|---|---|---|---|---|---|
 | `cjb.net` | CJB.net | Another defunct free subdomain provider. | N/A | N/A | Defunct | Included for historical reference. |
+| `does.software` | [does.software](https://does.software/) | Free `*.does.software` subdomains with web redirects and email forwarding, no DNS setup needed. Paid plans add static site hosting and real mailboxes. | Free/Paid | No | Active | No card needed. On the free plan, names renew with one click every 45 days and redirects show a 3.5 s notice. |
 | `duckdns.org` | [Duck DNS](https://www.duckdns.org/) | Free dynamic DNS service. | Free | Yes | Active | Simple and easy to use. |
 | `dynu.com` | [Dynu](https://www.dynu.com/) | Dynamic DNS and domain registration services. | Free/Paid | Yes | Active | Offers a variety of features. |
 | `eu.org` | [EU.org](https://nic.eu.org/) | Provides free subdomains under eu.org. | Free | No | Active | For non-commercial use by individuals and organisations in the European Union |
