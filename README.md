@@ -28,6 +28,7 @@ This list includes various types of subdomain services:
 | `lima-city.de` | Lima-City | Former free subdomain provider. | N/A | N/A | Defunct | Included for historical reference. |
 | `netlify.app` | | | | | | |
 | `no-ip.com` | [No-IP](https://www.noip.com/) | Dynamic DNS provider with free and paid options. | Free/Paid | Yes | Active | Popular and reliable service. |
+| `nx1.lol` | [Linkora](https://linkora.top) | Free developer subdomains for side projects. | Free | No | Active | One free hostname, no card required. Also .nx2.lol, .devly.cyou, .codely.bond. |
 | `pages.dev` | [Cloudflare Pages](https://pages.cloudflare.com/) | | | | | |
 | `subdomain.me` | [Subdomain.me](https://subdomain.me/) | Offers free subdomains. | Free | No | Active | Easy to use and setup |
 | `vercel.app` | | | | | | |
